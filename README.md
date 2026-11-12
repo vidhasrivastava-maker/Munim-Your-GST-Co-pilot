@@ -1,8 +1,7 @@
-# munim — GST notices, explained (working prototype)
-
+# munim — A GST Co-Pilot
 A GST compliance copilot for Indian small-business owners. It **explains** notices in plain language and helps the owner brief their lawyer. It **never** drafts replies, files, pays or gives advice.
 
-> Concept project by Vidha Srivastava (NIFT B.Des, Fashion Communication). Not launched, not tested with real business owners. All notices and numbers are fictional samples.
+> Concept project by Vidha Srivastava (NIFT B.Des, Fashion Communication). Not launched, all notices and numbers are fictional samples.
 
 ## What works
 - Home, notice detail (3 claims), brief for lawyer, Lawyer and Vault tabs, GST-portal-disconnected flow
